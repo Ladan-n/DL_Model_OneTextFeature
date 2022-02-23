@@ -1,2 +1,2 @@
-# DL_Model_OneTextFeature
-A deep leanging model is developed using Keras Tensorflow on a multiclass data.
+# Multiclass Prediction Task-One Text Feature
+Machine learning and deep leanging models are developed for a multiclass prediction task.
